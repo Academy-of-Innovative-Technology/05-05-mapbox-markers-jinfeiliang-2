@@ -4,5 +4,6 @@ html {
 }
 
 #map {
-	height: 400px;
+	height: 800px;
+	width: 800px;
 }
